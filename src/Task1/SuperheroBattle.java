@@ -18,8 +18,12 @@ public class SuperheroBattle {
     Protection protection;
     WarriorSkin warriorSkin;
 
+    public SuperheroBattle() {
+    }
+
     public static void main(String[] args) {
-        game();
+        SuperheroBattle superheroBattle = new SuperheroBattle();
+        superheroBattle.game();
     }
 
     public SuperheroBattle(String name, Weapon weapon, Protection protection, WarriorSkin warriorSkin) {
@@ -39,13 +43,13 @@ public class SuperheroBattle {
         return "        ---=== Player " + name + " ===--- \nhealth: " + health + "\nweapon: " + weapon + "\nprotection: " + protection;
     }
 
-    public static SuperheroBattle createRandomSuperhero() {
+    public SuperheroBattle createRandomSuperhero() {
         Random random = new Random();
         String[] names = {"Mister X", "Iron Table", "Crazy Hunter", "Naked Knight", "Electric Squirrel", "Mystic Cat", "Agent 007", "Agent Shark"};
         return new SuperheroBattle(names[random.nextInt(names.length - 1) + 1], new Weapon(), new Protection(), new WarriorSkin());
     }
 
-    public static void makeDamage(SuperheroBattle player1, SuperheroBattle player2) {
+    public void makeDamage(SuperheroBattle player1, SuperheroBattle player2) {
         // player1 attacks, player2 defends
         int damage = 0;
         if (player1.weapon.weaponForce > player2.protection.protectionLevel) {
@@ -73,7 +77,7 @@ public class SuperheroBattle {
     }
 
     //TODO battle method - main
-    public static void game() {
+    public void game() {
         SuperheroBattle hero1 = createRandomSuperhero();
         SuperheroBattle hero2 = createRandomSuperhero();
 
