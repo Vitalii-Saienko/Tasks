@@ -11,14 +11,14 @@ public class SpiralFillArray {
         Scanner scanner = new Scanner(System.in);
         int arraySize = scanner.nextInt();
         scanner.close();
-        int[][] arr = new int[(int) Math.sqrt(arraySize)][(int) Math.sqrt(arraySize)];
+        int[][] arr = new int[arraySize][arraySize];
         //int[][] arr2 = new int[(int) Math.ceil(Math.sqrt(arraySize))][(int) Math.ceil(Math.sqrt(arraySize))];
 
         int counter = 1;
         int beginIndex = 0;
-        int endIndex = (int) (Math.sqrt(arraySize)-1);
+        int endIndex = arraySize - 1;
 
-        while (counter < arraySize) {
+        while (counter < arraySize*arraySize) {
 
             for (int j = 0; j < arr.length; j++) {
                 if (arr[beginIndex][j] == 0) {
@@ -55,7 +55,7 @@ public class SpiralFillArray {
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
                 if (arr[i][j] == 0){
-                    arr[i][j] = arraySize;
+                    arr[i][j] = arraySize*arraySize;
                 }
                 System.out.print(arr[i][j] + " ");
             }
