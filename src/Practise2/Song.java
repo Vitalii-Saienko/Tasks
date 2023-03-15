@@ -4,7 +4,7 @@ Select a site and describe fields, methods, and entities. Please provide a link 
 The site must contain decent content.
 https://music.youtube.com
  */
-public class Song {
+public class Song implements MusicPlayable{
     private String name;
     private Artist artist;
     private Album album;
@@ -78,5 +78,10 @@ public class Song {
                 ", duration=" + duration +
                 ", link='" + link + '\'' +
                 '}';
+    }
+
+    @Override
+    public void play() {
+        //TODO some magic
     }
 }

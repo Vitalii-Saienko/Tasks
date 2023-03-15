@@ -6,7 +6,7 @@ https://music.youtube.com
  */
 import java.util.List;
 
-public class Playlist {
+public class Playlist implements MusicPlayable{
 
     private String name;
     private static int playlistId = 0;
@@ -22,6 +22,10 @@ public class Playlist {
         return playlistId++;
     }
 
+    @Override
+    public void play() {
+        //TODO some magic
+    }
     @Override
     public String toString() {
         return "Playlist{" +

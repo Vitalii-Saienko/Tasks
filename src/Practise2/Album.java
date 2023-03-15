@@ -6,7 +6,7 @@ https://music.youtube.com
  */
 import jdk.internal.icu.text.UnicodeSet;
 
-public class Album {
+public class Album implements MusicPlayable{
     private String name;
     private Artist artist;
     private Genre genre;
@@ -30,7 +30,10 @@ public class Album {
     public int getAlbumId() {
         return albumId++;
     }
-
+    @Override
+    public void play() {
+        //TODO some magic
+    }
     public void addAlbumToPlaylist(Album album, Playlist playlist) {
         //TODO some magic
     }

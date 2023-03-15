@@ -5,7 +5,7 @@ The site must contain decent content.
 https://music.youtube.com
  */
 
-public class Artist {
+public class Artist implements MusicPlayable {
 
     private String name;
     private Genre genre;
@@ -21,6 +21,10 @@ public class Artist {
         this.artistId = getArtistId();
     }
 
+    @Override
+    public void play() {
+        //TODO some magic
+    }
     public void getSimilarArtists(){
         //TODO some logic depends on genre of music
     }
