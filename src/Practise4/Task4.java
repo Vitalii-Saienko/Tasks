@@ -17,7 +17,7 @@ public class Task4 {
         ListIterator<Character> listIterator = listName.listIterator();
         boolean answer = false;
         for (int i = 0; i < listName.size()/2; i++) {
-            Character c = listIterator.next(), c2 = listIterator.previous();
+            Character c = listIterator.next(), c2 = listName.listIterator(listName.size() - i - 1).next();
             if (!c.equals(c2)){
                 break;
             }
