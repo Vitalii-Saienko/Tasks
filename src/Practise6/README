@@ -1,0 +1,13 @@
+Description
+
+This project is a simulation of a tournament between players in different leagues.
+It allows you to create players and divide them into different leagues to compete against each other.
+
+How to use
+
+The project contains three leagues:
+Youth, Adult and Veterans, each one represented by a class that extends the abstract class League.
+
+The results of the tournament will be printed in the console, showing the score of each player and the champion of the league.
+
+TO TRY - RUN METHOD "MAIN" in class GameDemo.
