@@ -1,0 +1,22 @@
+This is a Java program that compares two strings where one string may contain the character '#', which works
+like a backspace button on a keyboard.
+
+The program takes two strings as input and returns true if the first string is equal to the second string after
+applying the backspace rule.
+
+Here is an example of how to use the program:
+System.out.println("1 " + compareStrings("java##", "ja"));   // true
+System.out.println("2 " + compareStrings("##java", "java")); // true
+System.out.println("3 " + compareStrings("ja#va#", "jv"));   // true
+System.out.println("4 " + compareStrings("ja#va###", ""));   // true
+
+The program works by first converting the input string into a list of characters. It then iterates through the list,
+removing any occurrence of '#' and the character to its left.
+
+After applying the backspace rule, the remaining characters are then used to create a new string that is compared
+to the second input string using the equals() method.
+
+If the two strings are equal, the program returns true; otherwise, it returns false.
+
+The program makes use of the ArrayList and StringBuilder classes in the Java Collections Framework
+to efficiently handle the string manipulations.
