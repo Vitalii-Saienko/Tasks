@@ -1,0 +1,4 @@
+This package contains classes with different data structures, and the basic commands for collections are executed
+for the purpose of practicing and mastering the material. The classes include examples of ArrayList, LinkedList,
+HashMap, TreeMap, HashSet, and TreeSet, and demonstrate basic operations such as adding and removing elements,
+sorting, iterating through the collection, and using comparators and predicates.
