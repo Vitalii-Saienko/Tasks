@@ -1,4 +1,4 @@
-package Task2;
+package Summary2;
 
 public class School {
     public static void main(String[] args) {

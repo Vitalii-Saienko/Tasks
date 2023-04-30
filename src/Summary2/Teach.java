@@ -1,4 +1,4 @@
-package Task2;
+package Summary2;
 
 public interface Teach {
     void teach();

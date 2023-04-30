@@ -1,4 +1,4 @@
-package Task1;
+package Summary1;
 import java.util.Random;
 /*
 The project SuperheroBattle is a game that simulates a battle between two random superheroes.

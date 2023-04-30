@@ -1,6 +1,4 @@
-package Task4;
-
-import java.util.Objects;
+package Summary4;
 
 public class Person implements Comparable<Person> {
 
