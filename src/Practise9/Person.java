@@ -3,23 +3,22 @@ package Practise9;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.function.Function;
 
 /*
-List<Person> people = Arrays.asList(new Person("John", 25), new Person("Alice", 22), new Person("Bob", 30));
+List<Task10Person> people = Arrays.asList(new Task10Person("John", 25), new Task10Person("Alice", 22), new Task10Person("Bob", 30));
      *   List<String> names = people.stream()
      * - Преобразование списка объектов класса в список их имен, отсортированных по возрасту
-    class Person {
+    class Task10Person {
     private String name;
     private int age;
 }
  */
-public class Person {
+public class Task9Person {
     private String name;
     private int age;
 
-    public Person(String name, int age) {
+    public Task9Person(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -34,7 +33,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "Task10Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
@@ -42,9 +41,9 @@ public class Person {
 
     //Преобразование списка объектов класса в список их имен, отсортированных по возрасту
     //1.sort by age, 2.extract sorted by age names
-    public static List<String> convertingObjectsListToNamesList(List <Person> inputList){
-        Comparator<Person> ageComparator = Comparator.comparingInt(Person::getAge);
-        Function <Person, String> function = (Person::getName);
+    public static List<String> convertingObjectsListToNamesList(List <Task9Person> inputList){
+        Comparator<Task9Person> ageComparator = Comparator.comparingInt(Task9Person::getAge);
+        Function <Task9Person, String> function = (Task9Person::getName);
         return inputList.stream()
                 .sorted(ageComparator)
                 .map(function)
@@ -53,7 +52,7 @@ public class Person {
 
 
     public static void main(String[] args) {
-        List<Person> people = Arrays.asList(new Person("John", 25), new Person("Alice", 22), new Person("Bob", 30));
+        List<Task9Person> people = Arrays.asList(new Task9Person("John", 25), new Task9Person("Alice", 22), new Task9Person("Bob", 30));
         System.out.println(convertingObjectsListToNamesList(people));
     }
 

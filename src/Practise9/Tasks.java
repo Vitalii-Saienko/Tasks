@@ -15,10 +15,10 @@ package Practise9;
      * + Фильтрация списка строк на те, которые начинаются с 'a' и преобразование их в верхний регистр
      * + Получение списка уникальных слов из списка строк, длина которых больше 4 символов
      *
-     *   List<Person> people = Arrays.asList(new Person("John", 25), new Person("Alice", 22), new Person("Bob", 30));
+     *   List<Task10Person> people = Arrays.asList(new Task10Person("John", 25), new Task10Person("Alice", 22), new Task10Person("Bob", 30));
      *   List<String> names = people.stream()
      * - Преобразование списка объектов класса в список их имен, отсортированных по возрасту
-    class Person {
+    class Task10Person {
     private String name;
     private int age;
 }

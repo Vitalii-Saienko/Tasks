@@ -42,7 +42,7 @@ public class BasicsArrayList {
         System.out.println("-----");
         for (Person element: arrList) {
             if (element.name.equals("Jim")) {
-                System.out.println("ArrayList has Person with name Jim");
+                System.out.println("ArrayList has Task10Person with name Jim");
             }
         }
 
