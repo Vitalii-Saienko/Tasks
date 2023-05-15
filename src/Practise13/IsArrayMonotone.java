@@ -12,7 +12,7 @@ public class IsArrayMonotone {
         System.out.println(isMonotone(arr4));
         int[] arr5 = {0,0,1,1,2,3,2};
         System.out.println(isMonotone(arr5));
-        int[] arr6 = {1,1,1,1,1};
+        int[] arr6 = {1,1,1,1,1,1};
         System.out.println(isMonotone(arr6));
     }
     public static boolean isMonotone (int[] array){

@@ -12,7 +12,7 @@ public class RotateArray {
             }
         }
         printArray(array);
-        System.out.println("---------------");
+        System.out.println("----------------");
         int[][] newArray = rotateArray(array);
         printArray(newArray);
     }

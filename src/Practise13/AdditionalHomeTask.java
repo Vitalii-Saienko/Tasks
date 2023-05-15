@@ -42,7 +42,7 @@ public class AdditionalHomeTask {
                 .map(Map.Entry::getKey)
                 .collect(Collectors.toList());
     }
-    //to check findUniqueWordsBasedOnFrequency write method that print words frequency
+    //to check findUniqueWordsBasedOnFrequency write method that print words frequency:
     public static HashMap<String, Integer> findWordAndCounter(String[][] wordsArray) {
         return Arrays.stream(wordsArray)
                 .flatMap(Arrays::stream)
