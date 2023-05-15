@@ -2,8 +2,9 @@ package Practise8;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
-public class Task8Person {
+public class Person {
     String name;
     int age;
 
@@ -25,34 +26,34 @@ public class Task8Person {
 
     @Override
     public String toString() {
-        return "Task10Person{" +
+        return "Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
     }
 
-    public Task8Person(String name, int age) {
+    public Person(String name, int age) {
         this.name = name;
         this.age = age;
     }
 
     public static void main(String[] args) {
-        Task8Person person = new Task8Person("Jim", 24);
-        Task8Person person2 = new Task8Person("Jim", 24);
-        Task8Person person3 = new Task8Person("Jim", 36);
-        Task8Person person4 = new Task8Person("Jim", 36);
+        Person person = new Person("Jim", 24);
+        Person person2 = new Person("Jim", 24);
+        Person person3 = new Person("Jim", 36);
+        Person person4 = new Person("Jim", 36);
 
-        List <Task8Person> list = new ArrayList<>();
+        List <Person> list = new ArrayList<>();
         list.add(person);
         list.add(person2);
         list.add(person3);
         list.add(person4);
         System.out.println("our list original: " + list);
 
-        List <Task8Person> list2 = new ArrayList<>(list);
+        List <Person> list2 = new ArrayList<>(list);
         System.out.println("list2 before stream: " + list2);
 
-        List <Task8Person> list3 = list2.stream()
+        List <Person> list3 = list2.stream()
                 .map(el -> {
                     if (el.age > 35) {
                         el.setName(el.getName().toUpperCase());
