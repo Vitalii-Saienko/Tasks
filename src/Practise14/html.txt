@@ -1,0 +1,1712 @@
+<!doctype html>
+<html lang="uk" xmlns:og="http://ogp.me/ns#" class="is_desktop">
+
+
+<head>
+	<meta charset="utf-8">
+
+	<title>	День вишиванки 2023. Як українські айтівці та ІТ-компанії відзначали свято — великий фотоогляд | DOU
+</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="facebook-domain-verification" content="seketsl6mwpdvzztmp257ob5icoz53">
+
+
+
+<meta name="description" content="Уже традиційно до Дня вишиванки ми запропонували айтівцям надіслати свої світлини у вишиванках, а дехто поділився з нами історіями походження своїх сорочок і традиціями святкування. В огляді - найяскравіші цьогорічні фото айтівців і команд.">
+
+
+
+
+
+
+
+	<meta property="fb:app_id" content="174858425907105">
+
+	<meta property="og:title" content="День вишиванки 2023. Як українські айтівці та ІТ-компанії відзначали свято — великий фотоогляд">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://dou.ua/lenta/articles/vyshyvanka-2023/">
+	<meta property="og:site_name" content="DOU">
+	<meta property="og:image" content="https://s.dou.ua/img/announces/840_D9eoZlg.jpg">
+
+		<meta property="og:image:width" content="840">
+		<meta property="og:image:height" content="460">
+
+		<meta property="og:description" content="Уже традиційно до Дня вишиванки ми запропонували айтівцям надіслати свої світлини у вишиванках, а дехто поділився з нами історіями походження своїх сорочок і традиціями святкування. В огляді - найяскравіші цьогорічні фото айтівців і команд.">
+		<meta name="twitter:description" content="Уже традиційно до Дня вишиванки ми запропонували айтівцям надіслати свої світлини у вишиванках, а дехто поділився з нами історіями походження своїх сорочок і традиціями святкування. В огляді - найяскравіші цьогорічні фото айтівців і команд.">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@doucommunity">
+	<meta name="twitter:url" content="https://dou.ua/lenta/articles/vyshyvanka-2023/">
+	<meta name="twitter:title" content="День вишиванки 2023. Як українські айтівці та ІТ-компанії відзначали свято — великий фотоогляд">
+	<meta name="twitter:image" content="https://s.dou.ua/img/announces/840_D9eoZlg.jpg">
+
+	<link rel="image_src" href="https://s.dou.ua/img/announces/840_D9eoZlg.jpg">
+
+
+			<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Article",
+			"headline": "День вишиванки 2023. Як українські айтівці та ІТ-компанії відзначали свято — великий фотоогляд",
+			"image": [
+"https://s.dou.ua/img/announces/240x_400_6cpZsXZ.jpg","https://s.dou.ua/img/announces/840_D9eoZlg.jpg"			 ],
+			"datePublished": "2023-05-19T10:35:57+02:00",
+			"author": [{
+				"@type": "Person",
+				"name": "Вікторія Осіпова",
+				"url": "https://dou.ua/users/viktoriya-osipova/"
+			}]
+		}
+		</script>
+
+
+
+	<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "url": "https://dou.ua/", "logo": "https://s.dou.ua/storage-files/dou-organization.png"}</script>
+
+	<link rel="icon" sizes="192x192" href="https://s.dou.ua/assets/img/icon.png">
+	<link rel="shortcut icon" sizes="16x16" href="https://s.dou.ua/assets/img/favicon.ico">
+	<link rel="shortcut icon" type="image/png" sizes="32x32" href="https://s.dou.ua/assets/img/favicon32.png">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+			<link rel="alternate" type="application/rss+xml" title="Лента" href="https://dou.ua/feed/">
+
+	<link rel="canonical" href="https://dou.ua/lenta/articles/vyshyvanka-2023/">
+
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="https://s.dou.ua/build/built.v3199.5a70959.css" />
+
+
+
+
+	<script>
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};
+		ga('create', 'UA-168613-2', 'auto');
+		ga('set', 'transport', 'beacon');
+		ga('set', 'dimension1', 'Visitor');
+		ga('set', 'dimension2', 'uk');
+		ga('set', 'dimension3', '' + (window.devicePixelRatio >= 1.1));
+		ga('set', 'dimension4', '' + (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches));
+		ga('require', 'outboundLinkTracker');
+		ga('send', 'pageview');
+	</script>
+	<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+	<!-- GA 4 -->
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-N62L6SV4PV"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-N62L6SV4PV');
+	</script>
+
+	<script>
+		var impressions = [];
+	</script>
+</head>
+
+<body class="">
+
+	<div class="g-page">
+
+
+		<div id="topError" class="top-msg"></div>
+
+
+
+				<style>#topinfo{background: #FACC2E; color:#000;}
+#topinfo a {color:#000}
+#topinfo a:hover {color:#00008B;}</style>
+
+			<div class="topinfo" id="topinfo">
+				<strong>DOU шукає журналіста(-ку) в команду. <a href="https://dou.ua/goto/top/?id=701&lnk=1">Дізнатись умови та подати своє резюме</a></strong>
+				<a href="#" class="close" id="topinfo-close">✖</a>
+			</div>
+			<script>
+				impressions.push({'topinfo': '701'});
+			</script>
+
+
+
+
+
+
+
+
+<header class="b-head">
+
+	<ul>
+		<li class="logo"><a href="https://dou.ua/"></a></li>
+			<li class="m-hide"><a href="https://dou.ua/">Головна</a></li>
+			<li><a href="https://dou.ua/forums/">Форум</a></li>
+			<li><a href="https://dou.ua/lenta/" class="sel">Стрічка</a></li>
+			<li><a href="https://jobs.dou.ua/salaries/">Зарплати</a></li>
+			<li><a href="https://jobs.dou.ua/">Робота</a></li>
+			<li class="m-last"><a href="https://dou.ua/calendar/">Календар</a></li>
+
+						<li class="t-hide highlighted"><a href="https://dou.ua/goto/kv8H" target="_blank">Military-tech</a>
+<li class="t-hide"><a href="https://dou.ua/goto/youtube" target="_blank"><img src="https://s.dou.ua/storage-files/yt_logo_rgb_dark.png" style="width:80px;position:relative;top:-1px;"></a></li>
+
+
+
+
+	</ul>
+
+	<div class="right-part">
+			<form class="search" action="//dou.ua/search/" method="get">
+				<input class="inp" id="txtGlobalSearch" type="text" placeholder="пошук" name="q">
+			</form>
+
+
+			<a class="menu-site menu-site__gamedev" href="https://gamedev.dou.ua/?from=button" title="GameDev"></a>
+
+			<a class="menu-site menu-site__relocate" href="https://relocate.dou.ua/?from=button" title="Relocate"></a>
+
+			<a id="login-link" href="javascript:;">Вхід і реєстрація</a>
+	</div>
+</header>
+
+
+			<div class="l-content m-content">
+			<div class="colgroup">
+				<div class="col col2"></div>
+				<div class="col col70"></div>
+				<div class="col col20px"></div>
+				<div class="col col-auto"></div>
+				<div class="col col20px"></div>
+			</div>
+
+		<div class="l-content-wrap">
+				<div class="cell"></div>
+
+			<div class="cell g-right-shadowed mobtab-maincol">
+		<div class="b-post-info">
+		<span class="meta">
+<a href="https://dou.ua/lenta/articles/" class="topic">Статті</a> ·			<span class="date">19 травня, 10:35</span>
+			<span class="pageviews" title="Кількість переглядів">6995</span>
+		</span>
+
+		<div class="author">
+				<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_405971.jpg" width="25" height="25"  srcset="https://s.dou.ua/img/avatars/50x50_405971.jpg 1.1x">
+			<div class="name">
+				<a href="https://dou.ua/users/viktoriya-osipova/">Вікторія Осіпова</a>, <span class="prof">Editor в <a class="company" href="https://jobs.dou.ua/companies/dou/" target="_blank"><span class="company-favicon" style="background: url(https://s.dou.ua/img/static/favicons/dou-fav_QGBWYJH_sLNlZ9M_MvR0Ctt_VZczkhq_zOxQDHu_jVb0bIH.jpg) no-repeat;">DOU.ua</span></a></span>			</div>
+		</div>
+	</div>
+
+	<article class="b-typo b-typo_post" lang="uk">
+		<h1 >День вишиванки 2023. Як українські айтівці та ІТ-компанії відзначали свято — великий фотоогляд</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<p>Уже традиційно до Дня вишиванки ми запропонували айтівцям надіслати свої світлини у вишиванках, а дехто поділився з нами історіями походження своїх сорочок і традиціями святкування.</p>
+
+<p>Майже кожен учасник фотоогляду у супровідному листі написав, що вишиванка є для нього символом, який об’єднує українців по всьому світові, ідентифікує як націю, показує зв’язок поколінь і тяглість наших традицій.</p>
+
+<p>В огляді — найяскравіші фото айтівців і команд у вишиванках цього року. </p>
+
+<h3>Наталія Пелих, Product Solutions Director у <a href="https://jobs.dou.ua/companies/ciklum/" target="_blank">Ciklum</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_99894379881684476896266_opt.jpg"><br></p><blockquote>
+
+<p>Моя прабабуся на початку XX сторіччя вишила собі на весілля сорочку з галицькими мотивами, оскільки була родом з Львівської області. Ця сімейна реліквія збереглася донині.</p>
+
+<p>Я любила вишивати ще зі школи, і коли в університеті вирішила створити свою вишиванку, то найкращою ідеєю здалося втілити мотив прабабусиної сорочки. Так я вишила сучасний римейк вбрання <nobr>100-річної</nobr> давнини.</p>
+
+<p>Ця вишиванка — одна з небагатьох речей, яку мені було дуже шкода залишати вдома, коли я релокувалася. Тож зараз вона зі мною, готова до будь-яких подій. </p>
+
+</blockquote>
+
+<h3>Олексій Пономарьов, Software Engineer в <a href="https://jobs.dou.ua/companies/innovecs/" target="_blank">Innovecs</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_37259120761684476896250_opt.jpg"><br></p><blockquote>
+
+<p>Вишиванка — це наша система розпізнавання «свій-чужий». День вишиванки для мене важливий навіть на побутовому рівні. Я поводжуся з вишиванкою дуже обережно, боюся зайвий раз вдягнути, щоб не забруднити, тому класно, що є такий день у році, коли маю додаткову мотивацію її обрати. Як зустріну свято? Все просто: вдягну сорочку і закину донат на ЗСУ. </p>
+
+</blockquote>
+
+<h3>Богдана Качмар, Brand Designer у <a href="https://jobs.dou.ua/companies/mev/" target="_blank">MEV</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_29366551591684476896274_opt.jpg"></p>
+
+<h3>Олександр Співак, Project Manager у <a href="https://jobs.dou.ua/companies/dev-pro/" target="_blank">Dev.Pro</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_31276863771684476896257_opt.jpg"></p>
+
+<h3>Марина Івченко, Accountant в <a href="https://jobs.dou.ua/companies/dataart/" target="_blank">DataArt</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_63G3hBd_opt.jpg"></p>
+
+<blockquote>
+
+<p>Моя вишита сукня «Лимони» є відображенням самої сутності української жінки: це мати всього живого, яскравого, богиня родючості, природи та добра.</p>
+
+</blockquote>
+
+<h3>Єгор Терещенко, Product Analyst в <a href="https://jobs.dou.ua/companies/quarks-tech/" target="_blank">Quarks</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_98380995981684477012215_opt.jpg"></p>
+
+<blockquote>
+
+<p>Мені як людині з Донецька особливо важливий День вишиванки, оскільки він дає змогу зануритись в історію народу, вшанувати надбання нашої культури та відчути на собі весь складний шлях формування української національної ідентичності.</p>
+
+</blockquote>
+
+<h3>Ганна Сідельцева, менеджерка <a href="https://jobs.dou.ua/companies/integrity-vision/" target="_blank">Integrity Vision</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_864406369101684477012231_opt.jpg"><br></p><blockquote>
+
+<p>День вишиванки для мене — це пам’ять про моє коріння та національну ідентичність. Під час війни багато колег і друзів працюють у віддаленому форматі, тому я ділюсь своїми світлинами у вишиванці в соціальних мережах, радію вподобайкам та коментарям. Також це прекрасна можливість підтримати сучасних українських дизайнерів — вишиванку для мого котика створювала дизайнерка з Хмельницького.</p>
+
+</blockquote>
+
+<h3>Дмитро Яременко, Offer Manager у <a href="https://jobs.dou.ua/companies/simcorp/" target="_blank">SimCorp</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_272599524111684477012238_opt.jpg"></p>
+
+<h3>Ольга Гусак, викладачка англійської у <a href="https://jobs.dou.ua/companies/vakoms/" target="_blank">Vakoms</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_s3LajeS.jpg"></p>
+
+<blockquote>
+
+<p>На моїй сукні вишивка, якій понад 50 років! Цього року я зустрічаю День вишиванки у США, де велика українська діаспора. На святкуванні українці виступають із піснею «Стефанія» у неймовірно гарних вишитих костюмах, нагадуючи цілому світу, що вишиванка — генетичний код нації.</p>
+
+</blockquote>
+
+<h3>Альона Ніколаєва, Production Lead в <a href="https://jobs.dou.ua/companies/uptech-team/" target="_blank">Uptech</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_914497779151684477208809_opt.jpg"></p>
+
+<blockquote>
+
+<p>Для мене День вишиванки — це про гордість бути українкою, відчуття належності та єднання, шанування традицій, які не старіють.</p>
+
+</blockquote>
+
+<h3>Міла, QA в <a href="https://jobs.dou.ua/companies/booked-net/" target="_blank">Maklai</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_8705170391684477208772_opt.jpg"></p>
+
+<h3>Марія Марків, Software Engineer у <a href="https://jobs.dou.ua/companies/sombra/" target="_blank">Sombra</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_920807677101684477208777_opt.jpg"></p>
+
+<blockquote>
+
+<p>Ця вишиванка для мене є особливою, адже вишита невтомними руками моєї прабабусі в <nobr>90-х</nobr> роках. Вишивала вона для моєї мами. Ми будемо передавати цей скарб дівчатам і жінкам з нашого роду з покоління в покоління, щоб пам’ять про прабабусю була вічною. Тут мудрість поколінь і талант надзвичайно доброї жінки. </p>
+
+</blockquote>
+
+<h3>Ірина Довганюк, Recruiter у <a href="https://jobs.dou.ua/companies/jelvix/" target="_blank">Jelvix</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_Shk4GuL.jpg"></p>
+
+<blockquote>
+
+<p>Одягаю вишиванку для того, щоб весь світ бачив, яка прекрасна наша незламна Україна та її символи. Зустрічаю це свято з вірою у перемогу, надією на мирне майбутнє і великою любов’ю до України.</p>
+
+</blockquote>
+
+<h3>Марта Романяк, VP of Global Branding в <a href="https://jobs.dou.ua/companies/avenga/" target="_blank">Avenga</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_558283583121684477208789_opt.jpg"></p>
+
+<blockquote>
+
+<p>Вишиванка під час війни допомагає нам ідентифікуватися та не загубитися в цей складний час. Це наш символ, оберіг і бренд українців!</p>
+
+</blockquote>
+
+<h3>Марина Терещенко, Internal Communications Director <a href="https://jobs.dou.ua/companies/zone3000/" target="_blank">ZONE3000</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_173122751131684477208794_opt.jpg"></p>
+
+<blockquote>
+
+<p>Я святкую День вишиванки з 2014 року — це особливий день для мене, щоб ще раз нагадати світу, наскільки я пишаюсь бути українською жінкою та онучкою справжнього хлібороба. Моя вишиванка — про сміливість, вибір, любов до України, віру в перемогу та повагу до нашої самобутньої культури.</p>
+
+</blockquote>
+
+<h3>Дана Бєлоусова, графічна дизайнерка у <a href="https://jobs.dou.ua/companies/boosta/" target="_blank">Boosta</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_643250229141684477208798_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цього року я придбала собі дві вишиванки (вперше в житті). Та, що на фото, виконана в більш сучасному стилі. Вона подобається мені, бо на її рукавах вишиті символи України — колоски пшениці, калина, голуб як символ миру, наш герб, а ще — слово «воля».</p>
+
+<p>Також маю ще одну вишиту сорочку, більш традиційну, але пообіцяла собі, що вперше одягну її в день нашої перемоги. Тож тепер ми разом з нею сильно чекаємо цього дня!</p>
+
+</blockquote>
+
+<h3>Богдан Грабець, QA Engineer в <a href="https://jobs.dou.ua/companies/allstars-it/" target="_blank">ALLSTARSIT</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_kz4gU4F_opt.jpg"></p>
+
+<blockquote>
+
+<p>Раненько встав, одягнув вишиванку, і поїхали з друзями в Київський міський центр крові, де задонатили кров для перемоги.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/yo-da-wallet/" target="_blank">Yo-Da Wallet</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_39791369991684477439016_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цього року компанія відзначила День сім’ї і День вишиванки разом. Бо вишиванка для нас стала іще й символом дому, надії, віри в перемогу і повернення додому! </p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/globallogic/" target="_blank">GlobalLogic</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_70285065881684477439008_opt.jpg"><small><em>На фото зліва колеги Віталій Щудло, справа — Лука, син співробітниці Соломії Швайковської</em></small></p>
+
+<h3><a href="https://jobs.dou.ua/companies/sigma-software/" target="_blank">Sigma Software</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_695625471101684477439027_opt.jpg"></p>
+
+<blockquote>
+
+<p>Колеги з радістю приходять у вишиванках в офіси в усьому світі та діляться своїми фото у внутрішньому порталі. Ми любимо дарувати вишиванки клієнтам і створили свою власну фірмову сорочку, жіночий і чоловічий варіант. Вони завжди викликають щирий захват.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/codeminders/" target="_blank">Codeminders</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_835467101111684477439035_opt.jpg"></p>
+
+<blockquote>
+
+<p>У наших традиціях є не лише носіння вишитого одягу, а й відтворення національного кухарства. Тому сьогодні ми смакували варениками з різноманітними начинками, а після — завітали на майстер-клас з виготовлення сирників і вдосконалили наше вміння готувати такий улюблений багатьом сніданок :)</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/issoft/" target="_blank">ISsoft Ukraine</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_b3UMa1b_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/sysgears/" target="_blank">SysGears</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_39408580531684480422395_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/uinno/" target="_blank">UINNO</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_826900900141684477594353_opt.jpg"><small><em>На фото зліва направо — CEO Павло Рудику у чорній сорочці з символами письменників Розстріляного відродження, комунікаційниця Аня Бобіно в сукні з традиційним орнаментом Івано-Франківської області та проджект Ігор Моісєєв у бежевій сорочці</em></small></p>
+
+<blockquote>
+
+<p>Сьогодні ця трійця, не змовляючись, прийшла у вишиванках, які метчаться між собою.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/sparkybit/" target="_blank">Sparkybit</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_772663151101684477594322_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цього року компанія проводить внутрішню лекцію про історію української вишиванки та традиційного українського одягу. Сьогодні ми висловлюємо вдячність за майстерність, яка передається з покоління в покоління, за культуру, її збереження, а також безмежну вдячність i шану всім тим, хто боронить нашу країну.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/railsware/" target="_blank">Railsware</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_45451927111684477594328_opt.jpg"></p>
+
+<blockquote>
+
+<p>Для нашої команди вишиванка — один із символів звʼязку поколінь і нагадування про те, що життя продовжується і в часи війни. Оксана Корчмар, Office Manager, вдягла вишиту своєю мамою сорочку, коли хрестила сина найкращої подруги. А сімʼя Marketing Manager Марії Щербини, яка нині мешкає в Кракові, має цілий родинний набір вишиванок, які одягають в урочисті дні, як-от сьогодні чи 24 серпня.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/reenbit/" target="_blank">Reenbit</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_136440427151684477594363_opt.jpg"></p>
+
+<blockquote>
+
+<p>Сьогодні ми дружньо одягнули вишиванки як підтвердження єдності, незламності і краси українського народу! Slava Ukraini!</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/maxbill/" target="_blank">MaxBill</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_876963398121684477594336_opt.jpg"></p>
+
+<blockquote>
+
+<p>На фото, зробленому на офісній терасі після нічних обстрілів, адміністративне ядро одеського офісу MaxBill. На задньому тлі незламна Одеса!</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/intellias/" target="_blank">Intellias</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_306018441161684477594373_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/uklon/" target="_blank">Uklon</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_159019859171684477594383_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цьогоріч ми вирішили відзначити День вишиванки благодійним вечором — збираємо кошти на FPV дрони «Люті Пташки».</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/upstars/" target="_blank">UPSTARS</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_695757733121684477959142_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/n-ix/" target="_blank">N-iX</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/IMG_0726.jpg"></p>
+
+<blockquote>
+
+<p>Цього понеділка у нас провела лекцію Леся Воронюк, засновниця Дня вишиванки. Вона розповіла про значення цього улюбленого українського свята, яке вшановує традиційний вишитий одяг. А 18 травня ми запросили всіх фахівців до офісу для спільних фотосесій у вишиванках.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/softserve/" target="_blank">SoftServe</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_70350977141684477959163_opt.jpg"></p>
+
+<blockquote>
+
+<p>Сьогодні ми об’єдналися з локальними волонтерськими організаціями в офісах у Львові, Дніпрі, Києві, Харкові, Чернівцях, Івано-Франківську, Рівному, Полтаві, Одесі та Ужгороді й весь день плели маскувальні сітки для наших захисників і захисниць на фронт. Вдалося сплести 160 квадратних метрів сітки!</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/elitex/" target="_blank">Elitex</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_tYwmHmc.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/levi9/" target="_blank">Levi9</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_478492981151684477959172_opt.jpg"></p>
+
+<blockquote>
+
+<p>Святкуємо День вишиванки з великою вдячністю і любов’ю до наших військових, волонтерів та усіх, хто працює на перемогу та мир в Україні.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/onix/" target="_blank">Onix-Systems</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_325218599101684477959131_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/vector-software-1/" target="_blank">Vector Software</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_10912926111684477959136_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/readdle-inc/" target="_blank">Readdle</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_mj9EAL3_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/ukad-group/" target="_blank">UKAD</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_768551631131684478087009_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/yukon-software/" target="_blank">Yukon Software</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_703849977201684478087059_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/infopulse/" target="_blank">Infopulse</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_960910340141684478087017_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/dev-com/" target="_blank">DevCom</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_546880094151684478087023_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/grid-dynamics/" target="_blank">Grid Dynamics</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_576386203161684478087030_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/mobilunity/" target="_blank">Mobilunity</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_148363140171684478087035_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цього року традиційне святкування Дня вишиванки пройшло в офісі та онлайн. Колеги разом створювали панно з унікальним орнаментом та ділилися своїми селфі у вишиванках на внутрішньому порталі.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/tech-stack/" target="_blank">Techstack</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_61269489181684478087040_opt.jpg"></p>
+
+<blockquote>
+
+<p>День вишиванки — це ще один привід відзначити нашу незламність, єдність і силу, згадати наше коріння. Окрім того, це нагадування про всі випробовування, які довелось пережити українському народові, та перемоги, які завжди трапляються після складних часів. </p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/brainstack/" target="_blank">Brainstack_</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_560163482231684478087096_opt.jpg"></p>
+
+<blockquote>
+
+<p>Команда зібралась у київському офісі, щоб разом відсвяткувати День вишиванки. На колег чекали українські національні страви та майстер-клас з String-art, де колективно створювали логотип компанії в українському стилі. </p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/visartech/" target="_blank">Visartech</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_62898185251684480517346_opt.jpg"></p>
+
+<blockquote>
+
+<p>У Visartech був тиждень вишиванки із завданнями на кожен день. Одним із завдань було Vyshyvanka Storytelling. Суть: колеги розповідали історії сімейних вишиванок і надсилали фото. Шляхом голосування колег у корпоративному Slack обирали переможців. </p>
+
+</blockquote>
+
+<p><a href="https://jobs.dou.ua/companies/jatapp/" target="_blank">JatApp</a></p>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_JNNyYef_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/mate-academy/" target="_blank">Mate academy</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_1540935241684480517338_opt.jpg"></p>
+
+<blockquote>
+
+<p>День вишиванки — прекрасна мотивація скіпнути ремоут і попрацювати в офісі. І ми пам’ятаємо, що ця можливість одягнути вишиванку, та й загалом продовжувати працювати, є тільки завдяки ЗСУ. Тому під це свято компанія вирішила зробити донат і переказали $10K в KOLO для допомоги військовим.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/beetroot/" target="_blank">Beetroot</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_15698734211684478087071_opt.jpg"></p>
+
+<blockquote>
+
+<p>Це день єднання і підтримки. Торік ми створили тематичне тло для дзвінків, щоб ті, хто не має власної вишиванки або були змушені залишити її, поїхавши з дому через війну, також могли долучитися до традиції. На щастя, завдяки ЗСУ цього року більше «бурячків» мають змогу вдягнути вишиті сорочки і зібратися разом в офісах.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/skysoft-tech/" target="_blank">SkySoft.tech</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_214810623191684478087048_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цьогоріч до свята придумали невеликі подаруночки для колег: кожен отримав наклейку зі своїм закодованим ім’ям у візерунок.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/codica/" target="_blank">Codica</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_329536902221684478087077_opt.jpg"><small><em>На фото зліва направо: QA Engineer Анастасія Ковальчук, HR Business Partner Наталя Клименко, Copywriters Іван Максимяк, Олександра Тимченко</em></small></p>
+
+<blockquote>
+
+<p>Цей день ми відзначаємо з різних куточків світу з перемогою у серці і з бажанням знову зустрітися разом! Вишиванка — символ нашої сили, єдності та прагнення до свободи.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/aprior-it/" target="_blank">Apriorit</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_5003959131684478365176_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/betterme/" target="_blank">BetterMe</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_29457274291684478365146_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/intetics-co/" target="_blank">Intetics</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_838989259101684478365153_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цьогоріч українські колеги відзначили свято в онлайн-форматі невеличким фотофлешмобом. Переможець отримає подарунковий сертифікат у крамницю вишиванок.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/uvoteam/" target="_blank">UVOTEAM</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_146809312141684478365186_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/svitla-systems-inc/" target="_blank">Svitla Systems</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_632345466111684478365159_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/intelliarts/" target="_blank">Intelliarts</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_999731404151684478365196_opt.jpg"></p>
+
+<blockquote>
+
+<p>Всупереч усім випробуванням, які переживає нині наша країна, вишиванки символізують надію та віру в те, що наші Збройні сили скоро зможуть замінити камуфляжний одяг на вишиті сорочки, щоб разом відзначити найбільш очікуване свято — День Перемоги України.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/hys-enterprise/" target="_blank">HYS Enterprise</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_882356713121684478365166_opt.jpg"></p>
+
+<blockquote>
+
+<p>День вишиванки символізує національну гордість, красу та культурну спадщину. Цього дня послухаємо історикиню про традиції та особливості національного вбрання українців. </p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/binariks/" target="_blank">Binariks</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_149800651131684478499529_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/spd-ukraine/" target="_blank">SPD-Ukraine</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_955120101141684478499533_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/skylum-software/" target="_blank">Skylum</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_634950381191684478499569_opt.jpg"></p>
+
+<blockquote>
+
+<p>Напередодні свята провели лекцію на тему «Роль традиційної вишитої сорочки в житті та побуті українців» від Ярини Сізик. 18 травня зібрались в офісі, провели вікторину на знання українських прислів’їв, а переможці отримали автентичні подарунки, свічку з бортного воску та солом’яного коника. Також рандомно розіграли квитки в театр ім. Івана Франка на виставу «Конотопська відьма».</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/tranzzo/" target="_blank">Tranzzo</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_OBhPL1T_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/newage-solutions-corp/" target="_blank">Newage IO</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_527504007151684478499540_opt.jpg"></p>
+
+<blockquote>
+
+<p>Сьогодні в офіс хтось прийшов у сорочці, яку вишила бабуся ще у <nobr>2007-му.</nobr> Хтось — у вишиванці, врятованій з дому на Луганщині. Хтось розповів, що зберігає вишиванку з візерунками волинського регіону, якій понад 100 років і яка свого часу передавалась як придане — у скрині. </p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/euristiq/" target="_blank">Euristiq</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_827283695161684478499546_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/obrio/" target="_blank">OBRIO</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_536485417171684478499551_opt.jpg"></p>
+
+<blockquote>
+
+<p>Наразі наша команда зосереджена в київському та варшавському офісах, де, звісно ж, одягли вишиванки. Для кожного з нас національне вбрання має свій символ.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/redwerk/" target="_blank">Redwerk</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_944563230181684478499557_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цього року попросили колег поділитися фото у вишиванці у своєму місці сили та розповісти кілька слів, чим надихає саме це місце. Тож був привід одягнути вишиванку і прогулятися, хоча для багатьох зараз місце сили — це їхній дім. Переможці в фотоконкурсі отримають корпоративну вишиванку та зможуть подарувати ще одну знайомому захисникові, таким чином продовжуючи традицію.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/delphi-llc/" target="_blank">Delphi Software</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/blobid0_ZN26Ob8_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/welltech/" target="_blank">Welltech</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_755117007201684478499579_opt.jpg"></p>
+
+<h3> <a href="https://jobs.dou.ua/companies/appflame/" target="_blank">appflame</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_847677198211684478499585_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/interkassa/" target="_blank">Interkassa</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_913075678221684478499593_opt.jpg"></p>
+
+<blockquote>
+
+<p>У нашій компанії навіть є власні брендовані вишиванки — найбажаніший подарунок для кожного співробітника на річницю роботи в компанії. Одягаємо їх з гордістю не лише в третій четвер травня, а й на всі корпоративні свята.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/belkins/" target="_blank">Belkins</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_862708559231684478499607_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/jooble/" target="_blank">Jooble</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/124124.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/zoolatech/" target="_blank">ZoolaTech</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_693216831121684478648812_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/eleks/" target="_blank">ELEKS</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_621983357131684478648821_opt.jpg"></p>
+
+<blockquote>
+
+<p>Колеги в чотирьох країнах (Україна, Польща, Хорватія, США) сьогодні одягнули в офіси вишиванки. Це фото — з нашого офісу у Львові. Попри дощовиту львівську погоду колеги зібралися для традиційного щорічного спільного фото. Ця традиція — мотивація для багатьох спеціалістів приїхати в офіс, зустрітися з колегами, розділити спільні емоції і переживання. Це щемкий і приємний день для усіх нас.</p>
+
+</blockquote>
+
+<h3><a href="https://jobs.dou.ua/companies/five-systems-development/" target="_blank">Five</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_798501835141684478648830_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/synebo/" target="_blank">Synebo</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_84310778291684478648788_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/abto-llc/" target="_blank">Abto Software</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_300132553101684478648795_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/masterofcodecom/" target="_blank">Master of Code Global</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_292323958151684478648839_opt.jpg"></p>
+
+<h3> <a href="https://jobs.dou.ua/companies/go-wombat-team/" target="_blank">Go Wombat</a> </h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_744480508111684478648801_opt.jpg"></p>
+
+<h3><a href="https://jobs.dou.ua/companies/zazmic/" target="_blank">Zazmic</a></h3>
+
+<p><img src="https://s.dou.ua/storage-files/image_697142642131684477594342_opt.jpg"></p>
+
+<blockquote>
+
+<p>Цього дня всі працівники зібралися в офісі у вишиванках і провели спільний обід. Додатково ми організували міжнародний конкурс національних костюмів у компанії, щоб кожен міг поділитися культурою своєї країни. Це свято символізує повагу та визнання різноманітності культур.</p>
+
+</blockquote>
+
+<p><br><em>Долучайтеся та публікуйте свої світлини з історіями у коментарях.</em></p>
+
+
+				<p class="tg-promo"><span><a href="https://dou.ua/goto/dou_editors_lenta" target="_blank"><img src="https://s.dou.ua/assets/img/telegram.svg" style="margin: 0 7px 0 0!important;"></a><em>Все про українське ІТ в телеграмі — підписуйтеся на <a href="https://dou.ua/goto/dou_editors_lenta" target="_blank">канал редакції DOU</a></em></span></p>
+
+			<div class="b-post-tags">
+				<span class="title">Теми:</span>
+				<a href="https://dou.ua/lenta/tags/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0/">війна</a>, <a href="https://dou.ua/lenta/tags/%D0%B4%D0%B5%D0%BD%D1%8C%20%D0%B2%D1%8B%D1%88%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%B8/">день вишиванки</a>, <a href="https://dou.ua/lenta/tags/%D0%BE%D1%82%D1%87%D0%B5%D1%82/">звіт</a>, <a href="https://dou.ua/lenta/tags/%D1%84%D0%BE%D1%82%D0%BE%D0%BE%D0%B1%D0%B7%D0%BE%D1%80/">фотоогляд</a>
+			</div>
+	</article>
+
+
+		<script>
+			impressions.push({'pageviews-content': 107214});
+		</script>
+
+
+		<div class="likely" data-url="https://dou.ua/lenta/articles/vyshyvanka-2023/" data-title="День вишиванки 2023. Як українські айтівці та ІТ-компанії відзначали свято — великий фотоогляд">
+
+
+				<div id="btnLike" class="likely__widget likely__widget_likes "><span class="likely__icon likely__icon_likes" style="opacity: .6;filter: grayscale(0.6);position: relative; left:2.5px;">👍</span><span class="likely__button likely__button_likes"><span class="unchecked_text">Подобається</span><span class="checked_text">Сподобалось</span></span><span class="likely__counter">22</span></div>
+
+				<div id="btnStar" class="likely__widget likely__widget_stars "><span class="likely__icon likely__icon_stars"><svg class="likely__star_empty" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path id="Shape" d="m15.965661,6.219396l-5.74046,-0.49252l-2.24237,-5.290234l-2.24237,5.290234l-5.740461,0.49252l4.354623,3.7735l-1.305176,5.611125l4.933383,-2.975997l4.933383,2.975997l-1.305177,-5.611125l4.354624,-3.7735l0,0zm-7.982831,4.911043l-3.00394,1.812119l0.795092,-3.417455l-2.652693,-2.297475l3.496484,-0.300136l1.365057,-3.22188l1.365057,3.22188l3.496484,0.300136l-2.651889,2.297475l0.795092,3.417455l-3.004743,-1.812119l0,0z"/></svg><svg class="likely__star_full" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path id="Shape" d="m7.994121,12.627484l4.927092,2.959405l-1.303512,-5.581348l4.349073,-3.753476l-5.733144,-0.489906l-2.23951,-5.262159l-2.239511,5.262159l-5.733142,0.489906l4.349071,3.753476l-1.303512,5.581348l4.927094,-2.959405z"/></svg></span><span class="likely__button likely__button_stars"><span class="unchecked_text">До обраного</span><span class="checked_text">В обраному</span></span><span class="likely__counter">0</span></div>
+
+			<div class="facebook" title="Поділитись посиланням на Фейсбуці">Facebook</div>
+			<div class="twitter" title="Поділитись посиланням в Твіттері" data-via="doucommunity">Twitter</div>
+			<div class="linkedin" title="Поділитись посиланням в LinkedIn">LinkedIn</div>
+		</div>
+
+
+				<div class="b-similar-posts">
+					<h4>Схожі статті</h4>
+					<ul>
+							<li>
+								<h3 class="title"><a href="https://dou.ua/lenta/articles/vyshyvanka-2022/?from=similar_posts"><img class="announce-img" src="https://s.dou.ua/img/announces/120x_13_XH3AZom.jpg" srcset="https://s.dou.ua/img/announces/240x_13_XH3AZom.jpg 1.1x" alt="День вишиванки 2022. Як українські айтівці відзначали цю дату в умовах війни">День вишиванки 2022. Як українські айтівці відзначали цю дату в умовах війни</a></h3>
+
+								<div class="b-info">
+									<a class="author" href="https://dou.ua/users/maria-gurska/">Maria Gurska</a>
+									<time class="date">20 травня 2022</time>
+								</div>
+
+									<p class="b-typo">
+										До Дня вишиванки цього року ми запропонували IT-спеціалістам не лише надіслати нам свої світлини у вишиванках, а й розповісти про те, що для них означає це свято та як вони зустрічають його під час війни.&nbsp;<a href="https://dou.ua/lenta/articles/vyshyvanka-2022/?from=similar_posts#comments" class="g-comments-round __lazy" data-id="96223">6</a>
+									</p>
+							</li>
+							<li>
+								<h3 class="title"><a href="https://dou.ua/lenta/articles/vyshyvanka-2021/?from=similar_posts"><img class="announce-img" src="https://s.dou.ua/img/announces/120x_400-2_TEClWB2.jpg" srcset="https://s.dou.ua/img/announces/240x_400-2_TEClWB2.jpg 1.1x" alt="День вишиванки 2021: креативні фото IT-спеціалістів">День вишиванки 2021: креативні фото IT-спеціалістів</a></h3>
+
+								<div class="b-info">
+									<a class="author" href="https://dou.ua/users/dou-editors/">Редакція DOU</a>
+									<time class="date">21 травня 2021</time>
+								</div>
+
+									<p class="b-typo">
+										Цього року ми запропонували IT-спеціалістам трішки покреативити на День вишиванки та отримали 500+ яскравих фото. Було шкода обирати, та все ж помістили в статтю близько 100 світлин — впевнені, вони зарядять вас позитивом!&nbsp;<a href="https://dou.ua/lenta/articles/vyshyvanka-2021/?from=similar_posts#comments" class="g-comments-round __lazy" data-id="84615">21</a>
+									</p>
+							</li>
+							<li>
+								<h3 class="title"><a href="https://dou.ua/lenta/interviews/qa-engineer-in-the-army/?from=similar_posts"><img class="announce-img" src="https://s.dou.ua/img/announces/120x_400_B4jSBKT.jpg" srcset="https://s.dou.ua/img/announces/240x_400_B4jSBKT.jpg 1.1x" alt="QA Engineer на війні. Фотоісторія айтівця та колишнього учасника АТО, який 2022 року знову вирушив на передову">QA Engineer на війні. Фотоісторія айтівця та колишнього учасника АТО, який 2022 року знову вирушив на передову</a></h3>
+
+								<div class="b-info">
+									<a class="author" href="https://dou.ua/users/eleonora-burdina/">Eleonora Burdina</a>
+									<time class="date">7 червня 2022</time>
+								</div>
+
+									<p class="b-typo">
+										Володимир — QA Engineer у Vakoms, прийшов в IT шість років тому після роботи у виші та участі в АТО. Коли почалася повномасштабна війна, тестувальник долучився до ТрО, але швидко зрозумів, що з його досвідом можна бути кориснішим в іншому місці.&nbsp;<a href="https://dou.ua/lenta/interviews/qa-engineer-in-the-army/?from=similar_posts#comments" class="g-comments-round __lazy" data-id="96796">14</a>
+									</p>
+							</li>
+					</ul>
+				</div>
+
+
+					<br><br>
+<b style="font-weight: bold;font-size: 20px;display:block;padding:5px 0 0 0;display:none" class="m-db">DOU News 96</b>
+<br>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/ua/podcast/%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F-%D1%83%D1%85%D0%B8%D0%BB%D1%8F%D0%BD%D1%82%D1%96%D0%B2-%D0%BE%D0%B1%D1%88%D1%83%D0%BA%D0%B8-%D0%B2-%D1%96%D1%82-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97-%D1%81%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%B8-%D0%B0%D0%B9%D1%82%D1%96%D0%B2%D1%86%D1%96%D0%B2/id1539756031?i=1000613080233"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+		<a name="comments"></a>
+		<div class="b-comments ">
+
+			<div class="comments-head" id="fixedableMenuId">
+				<div class="fixed-menu">
+					<a id="upPageLnkId" title="Наверх" href="javascript:;"></a>
+					<h3 id="lblCommentsCount">Немає коментарів</h3>
+
+
+					<a id="btnSubsribe" class="comment-subscribe " href="javascript:;"><span class="unchecked-text">Підписатись<span class="m-hide"> на коментарі</span></span><span class="checked-text">Відписатись<span class="m-hide"> від коментарів</span></span></a>
+
+
+						<span style="font-size: 13px; display: inline-block; padding: 7px 0px 0px 20px; margin-right:-15px;"><span style="background:#ffc;padding:0 3px;">Коментарі можуть залишати тільки користувачі з <a target="_blank" href="https://dou.ua/verified-accounts/">підтвердженими акаунтами</a>.</span></span>
+				</div>
+				<div class="wrapper"></div>
+			</div>
+
+
+			<div id="commentsList">
+
+
+
+			</div>
+
+		</div>
+
+
+		<script>
+			window.POST_ID = 107214;
+			window.SUBSCRIBED = false;
+			window.COMMENTS_URL = "https://dou.ua/comment-action/";
+			window.DELETE_ENTRY_URL = "https://dou.ua/comment-delete/";
+			window.CHANGE_URL = "https://dou.ua/comment-gettext/";
+		</script>
+
+
+
+		<div id="subscribeDialog" class="b-comments-dialog">
+		<div class="container">
+			<h4 class="title">Підписатись на коментарі</h4>
+
+			<div class="data table">
+				<div class="row">
+					<div class="cell"><label for="sEmail">Ваша пошта</label></div>
+					<div class="cell"><input id="sEmail" class="first" name="email" type="email" value=""></div>
+				</div>
+			</div>
+			<div class="send">
+				<div class="table">
+					<div class="row">
+						<div class="cell">
+							<div class="b-buttons">
+								<button class="win-button disabled">
+									<span class="out"><span class="button">Підписатись</span></span>
+								</button>
+								<div class="little-loading"></div>
+							</div>
+						</div>
+						<div class="cell right-cell">
+							<div class="cancel">
+								<a href="javascript:;">Не підписуватись</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+			</div>
+
+				<div class="cell"></div>
+				<aside class="cell b-right-side" id="fixedableRightSide">
+
+
+
+											<div class="b-adv-events">
+			<h4 class="title">Не пропустіть</h4>
+
+				<div class="adv-event-block">
+					<div class="date">
+						22 травня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47217/?from=premiumevents_7349" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/SQL_Time_1_f5GAmF6/1f13b10dbb1f405f3205c69127bc4cd1.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/SQL_Time_1_f5GAmF6/44d9cc4b1ba8db077f3f566f954e6ad9.png 1.1x">
+								</div>
+
+						Курс «SQL Time: навчіться писати SQL-запити, щоб спростити собі роботу в IT» від IAMPM
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						25 травня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47174/?from=premiumevents_7340" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/scrum_1_E8m3KLB/43addd9c9092ae74fb608ea10443586c.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/scrum_1_E8m3KLB/f909c48e5f4a610d9e4ca9e824d65397.png 1.1x">
+								</div>
+
+						Практичний курс зі Scrum «IAM.Scrum 2.0 + підготовка до сертифікації» від IAMPM
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						25 травня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47201/?from=premiumevents_7345" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/20230517_152918_0000/8e4ced927b812d6877f9197220edfee4.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/20230517_152918_0000/e49c5cf8daa86f256be7c2d3388054a3.png 1.1x">
+								</div>
+
+						Курс “QA professional” від Jungle
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						25 травня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47178/?from=premiumevents_7344" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/dou_tCLaNwp_NlXwLdK/60ff141bf4efa7b99168414b153dcf83.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/dou_tCLaNwp_NlXwLdK/89c4cfa957cc1bd1ef3f40c11a2be4d9.png 1.1x">
+								</div>
+
+						Svitla Smart Talk. FinTech 360: Discovering Domain
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						29 травня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47118/?from=premiumevents_7329" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/аааа_bau6mce/580d01ab15c97dcc66c843a8858b595f.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/%D0%B0%D0%B0%D0%B0%D0%B0_bau6mce/0b3799b62978ac53ca56a528b2f3a421.png 1.1x">
+								</div>
+
+						Курс QA Engineer від CyberBionic Systematics
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						29 травня — 5 липня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47021/?from=premiumevents_7319" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/VcDejNjHYRG9vHwWOYosBZLh9-vsJz-leg9oyTO0T9U/facde78dbe2f54c8c9212a7da31ac398.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/VcDejNjHYRG9vHwWOYosBZLh9-vsJz-leg9oyTO0T9U/fd7fcc87edcfa3884228a6f6810b87b2.png 1.1x">
+								</div>
+
+						Курс «Проджект-менеджмент в IT» від Laba
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						30 травня, Київ					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47169/?from=premiumevents_7336" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/200-100/cd97e3cb7ec28e721486b4e5819a807b.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200-100/3263ef46660c6b1fe3764879601849f8.png 1.1x">
+								</div>
+
+						Bitcoin Meetup Kyiv
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						8 червня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47125/?from=premiumevents_7330" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/dou_tCLaNwp/0c97e7dea9cc6c2e4251b3fd51261448.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/dou_tCLaNwp/4b08231299c10b4159e4ed4b032f3b47.png 1.1x">
+								</div>
+
+						Svitla Smart Talk: New Industrialization: AI Took Our Jobs!
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						15 червня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47175/?from=premiumevents_7341" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/Product_Owner_1/68d59281058ec257475eb7c8268ecf0b.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/Product_Owner_1/d47c137c902a68c9d20e4bfed5ad2bb6.png 1.1x">
+								</div>
+
+						Курс «Product Owner — практичний курс для власників продукту» від IAMPM
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						20 червня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/47226/?from=premiumevents_7351" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/DOU_200_100_1_hW1af4N_ydSceeR_IM9b2eo_1_lqy3F0R_XLMwoQr_UaJsO2N_26fUR_W2Z1TqY/789b90f8219d02b8bb3e64295ed64635.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/DOU_200_100_1_hW1af4N_ydSceeR_IM9b2eo_1_lqy3F0R_XLMwoQr_UaJsO2N_26fUR_W2Z1TqY/3247e55cf280914337c3d37c0f3fb766.png 1.1x">
+								</div>
+
+						Безкоштовні заняття з англійської від Englishdom (щотижня Ср,Пт)
+					</a>
+				</div>
+		</div>
+
+	<script>
+		impressions.push({'adv_events': [7349, 7340, 7345, 7344, 7329, 7319, 7336, 7330, 7341, 7351]});
+	</script>
+
+
+
+
+						<div class="g-clear"></div>
+						<div class="b-sticky-right-side">
+							<div class="l-sticky-wrap">
+								<div class="l-sticky-group">
+									<div class="l-sticky-item">
+
+
+		<div class="b-dou-vacancies">
+
+
+
+			<h4 class="title __hot">Гарячі вакансії</h4>
+
+				<ul class="vacancies-list">
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/zaelab/vacancies/226719/?from=widget_hot">Salesforce B2B Commerce Developer</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/zaelab/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/32_clYvgzd.png">Zaelab</a><span style="color: #787575;">, Київ, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/newgmedia/vacancies/232885/?from=widget_hot">Platform Product Manager</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/newgmedia/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/32_yRREamC.jpg">NewGMedia</a><span style="color: #787575;">, Київ, Львів, Лімасол (Кіпр), Рига (Латвія), віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/vault12/vacancies/66266/?from=widget_hot">Senior Angular Developer for a crypto startup</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/vault12/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/32_AFFw9bM.png">Vault12</a><span style="color: #787575;">, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/dataart/vacancies/235752/?from=widget_hot">Senior Salesforce Developer</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/dataart/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/32_0OCVxOP.png">DataArt</a><span style="color: #787575;">, Київ, Харків, Львів, Дніпро, Одеса, Вінниця, Івано-Франківськ, Кременчук, Полтава, Астана (Казахстан), Краків (Польща), Ларнака (Кіпр), Лодзь (Польща), Люблін (Польща), Рига (Латвія), Софія (Болгарія), Тбілісі (Грузія), Варна (Болгарія), Вроцлав (Польща), Алмати (Казахстан), віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/svitla-systems-inc/vacancies/235559/?from=widget_hot">Senior BI Engineer</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/svitla-systems-inc/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/32_kJE8F1Z.png">Svitla Systems</a><span style="color: #787575;">, Київ, Львів, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/plink-gg/vacancies/235722/?from=widget_hot">User Acquisition Manager (Google)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/plink-gg/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/p32_M77LaGn.png">PLINK.GG</a><span style="color: #787575;">, Київ, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/galaktica/vacancies/210331/?from=widget_hot">Full-Stack Engineer (PHP+React)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/galaktica/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/32_fNNzd0x.png">Galaktica</a><span style="color: #787575;">, Київ, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/spd-ukraine/vacancies/235323/?from=widget_hot">Lead Software Development Engineer (Brightspot)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/spd-ukraine/?from=widget_hot"><img src="//s.dou.ua/img/static/favicons/s32_qpGjA0n.png">SPD-Ukraine</a><span style="color: #787575;">, Київ, Львів, Черкаси, віддалено</span>				</li>
+	</ul>
+
+
+				<a class="more" href="https://jobs.dou.ua/?from=widget_hot">Всі вакансії</a>
+		</div>
+									</div>
+								</div>
+
+								<div class="l-sticky-group">
+									<div class="l-sticky-item">
+
+
+
+
+<div class="b-block b-block_news">
+	<div class="title">
+		<h3>
+			<a href="https://dou.ua/lenta/news/?from=sbnews">Новини</a>
+		</h3>
+	</div>
+
+	<div class="b-articles b-articles_tech ">
+		<ul class="l-articles">
+				<li>
+					<div class="info">
+							19 травня
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/banochky-for-the-victory/?from=sbnews">Український розробник створив застосунок «Баночки», який дозволяє стежити за зборами в monobank</a>&nbsp;<a href="https://dou.ua/lenta/news/banochky-for-the-victory/?from=sbnews#comments" class="g-comments-round __lazy" data-id="107245">8</a>
+				</li>
+				<li>
+					<div class="info">
+							19 травня
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/miltech-drill/?from=sbnews">Український miltech-застосунок Drill, який вчить стріляти онлайн, виходить на ринок США</a>&nbsp;<a href="https://dou.ua/lenta/news/miltech-drill/?from=sbnews#comments" class="g-comments-round __lazy" data-id="107225">1</a>
+				</li>
+				<li>
+					<div class="info">
+							19 травня
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/about-vodafone-ukraine/?from=sbnews">Глобальні скорочення не зачеплять Vodafone Україна й IT SmartFlex. Окрім того, з лютого співробітникам підвищили зарплати</a>
+				</li>
+				<li>
+					<div class="info">
+							18 травня
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/youtube-add/?from=sbnews">YouTube показуватиме на смарт-телебаченні 30 секунд реклами, які не можна буде пропустити</a>
+				</li>
+				<li>
+					<div class="info">
+							18 травня
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/nato-with-ukraine/?from=sbnews">Україна стала членом Обʼєднаного центру з кібероборони НАТО на правах контрибутора. Що це передбачає</a>&nbsp;<a href="https://dou.ua/lenta/news/nato-with-ukraine/?from=sbnews#comments" class="g-comments-round __lazy" data-id="107195">2</a>
+				</li>
+
+			<li class="more"><a class="link" href="https://dou.ua/lenta/news/?from=sbnews_more">Всі новини</a></li>
+		</ul>
+	</div>
+</div>									</div>
+								</div>
+
+
+									<div class="l-sticky-group">
+
+	<div class="b-index-discussions b-block">
+			<div class="title">
+				<h3>Обговорюють зараз</h3>
+			</div>
+
+				<div class="interesting-comment">
+					<a href="https://dou.ua/forums/topic/43510/?from=sbcomments#2627617" class="comment">
+						<span class="inner">Біля Канева є круті місця, брат колись єгером на Трахтемировому півосторові працював. Взагалі є щось в тому, щоб жити біля Дніпра. Можливо це в мене з дитинства тягнеться, коли ми в Сокирна чи Сагунівку їздили, але, я хотів би участок з прямим доступом до берега. Але то для богатих.</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/vova-riznik/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_170339.jpg" width="25" height="25"  srcset="https://s.dou.ua/img/avatars/50x50_170339.jpg 1.1x">
+							Вова Різник</a>
+в події						<a href="https://dou.ua/forums/topic/43510/?from=sbcomments">Переїзд: Іспанія VS БеНеЛюкс та Скандинавія</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://dou.ua/forums/topic/43510/?from=sbcomments#2627615" class="comment">
+						<span class="inner">Ну власне, я десь так і розглядаю, бо вивалити всю суму важко за один платіж, а якщо будуєш сам/добудовуєш, то можна розтягнути на рік/два. Така собі іпотека без іпотеки.</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/vova-riznik/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_170339.jpg" width="25" height="25"  srcset="https://s.dou.ua/img/avatars/50x50_170339.jpg 1.1x">
+							Вова Різник</a>
+в події						<a href="https://dou.ua/forums/topic/43510/?from=sbcomments">Переїзд: Іспанія VS БеНеЛюкс та Скандинавія</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://dou.ua/forums/topic/43576/?from=sbcomments#2627592" class="comment">
+						<span class="inner">Ну так они потратили несколько лет, чтобы в итоге сделать смесь Майнкрафта и Диабло и назвали это Метаверс. Ну очевидно было, что идея провальная, без технологий погружения в виртуальную реальность.</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/mark-donya/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_542287731889730020779526546355797847179264n.jpg" width="25" height="25"  srcset="https://s.dou.ua/img/avatars/50x50_542287731889730020779526546355797847179264n.jpg 1.1x">
+							Mark Donia</a>
+в події						<a href="https://dou.ua/forums/topic/43576/?from=sbcomments">«Час великої тривоги та невизначеності». Стало відомо про третій раунд звільнень в Meta</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://dou.ua/forums/topic/43510/?from=sbcomments#2627540" class="comment">
+						<span class="inner">Безумовно. Я більше про те, що Київ можна розглядати як хаб, біля якого жити осідле життя.</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/vova-riznik/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_170339.jpg" width="25" height="25"  srcset="https://s.dou.ua/img/avatars/50x50_170339.jpg 1.1x">
+							Вова Різник</a>
+в події						<a href="https://dou.ua/forums/topic/43510/?from=sbcomments">Переїзд: Іспанія VS БеНеЛюкс та Скандинавія</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://dou.ua/forums/topic/43510/?from=sbcomments#2627531" class="comment">
+						<span class="inner">та ладно, ти якусь дичину пишеш. Тим більше про 9 місяців дичини. Я за кліматом саме Копенгагена не стежив, але на моє суб’єктивне сприйняття всі зимові місяці в Стокгольмі сонце частіше, ніж наприклад це було в Києві. А в літку звичайно ще й це відчуття через довгий день додається.</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/sergeyborisenko/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_ava_BVxI9kg.jpg" width="25" height="25"  srcset="https://s.dou.ua/img/avatars/50x50_ava_BVxI9kg.jpg 1.1x">
+							Sеrgеу Bоrуssenkо</a>
+в події						<a href="https://dou.ua/forums/topic/43510/?from=sbcomments">Переїзд: Іспанія VS БеНеЛюкс та Скандинавія</a>
+					</div>
+				</div>
+	</div>
+
+									</div>
+							</div>
+						</div>
+				</aside>
+				<div class="cell"></div>
+		</div>
+	</div>
+
+
+
+<div class="b-footer-slider m-hide">
+	<h3>Радимо почитати</h3>
+
+
+			<div class="items">
+			<a class="item" href="https://dou.ua/forums/topic/38283/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/22-45-33_R7IehWB/355999522486004b6790aaa523da8440.jpg" srcset="https://s.dou.ua/CACHE/images/img/announces/22-45-33_R7IehWB/ed1b323fba1c74d2cba2846375ba22a7.jpg 1.1x" alt="Що варто врахувати під час фінансового планування в умовах війни">
+				<div class="title">Що варто врахувати під час фінансового планування в умовах війни</div>
+			</a>
+			<a class="item" href="https://dou.ua/forums/topic/42710/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/outside_Lhichnz/a046f98988c4de07194733a1b13773c1.jpg" srcset="https://s.dou.ua/CACHE/images/img/announces/outside_Lhichnz/21e3c599728cf3981083fcdc7666cd00.jpg 1.1x" alt="Подальший розвиток фронтенд-розробника: що потрібно знати, крім фронтенду">
+				<div class="title">Подальший розвиток фронтенд-розробника: що потрібно знати, крім фронтенду</div>
+			</a>
+			<a class="item" href="https://dou.ua/forums/topic/41055/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/image_f_single_2/53a0095fbed90f67aa490ec66556c3b9.png" srcset="https://s.dou.ua/CACHE/images/img/announces/image_f_single_2/012317344b9cd427b8298cf7c576e9d2.png 1.1x" alt="Від світчера — до офера у FAANG за 5 років. Як я пройшла співбесіду в Facebook">
+				<div class="title">Від світчера — до офера у FAANG за 5 років. Як я пройшла співбесіду в Facebook</div>
+			</a>
+			<a class="item" href="https://dou.ua/lenta/articles/life-in-south-africa/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/840-1_8F9M0bO/06dd91be7d26cfdb3114ce9de27259f7.jpg" srcset="https://s.dou.ua/CACHE/images/img/announces/840-1_8F9M0bO/e4504be1c2193c3c91df112df3c2738c.jpg 1.1x" alt="«Тут мало емпатії до України у контексті війни». Розробниця з Києва — про життя у Кейптауні та роботу в арабській компанії">
+				<div class="title">«Тут мало емпатії до України у контексті війни». Розробниця з Києва — про життя у Кейптауні та роботу в арабській компанії</div>
+			</a>
+			<a class="item" href="https://dou.ua/forums/topic/42485/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/6image_rel_single_1/6fc0360a1da0e2bce59dc8667056671a.jpg" srcset="https://s.dou.ua/CACHE/images/img/announces/6image_rel_single_1/f6cc5669673197b66f3ed7b042d6fdf2.jpg 1.1x" alt="Як я переїхав з Харкова у Тернопіль і так навчився любити всю нашу країну">
+				<div class="title">Як я переїхав з Харкова у Тернопіль і так навчився любити всю нашу країну</div>
+			</a>
+	</div>
+
+
+			<div class="items">
+			<a class="item" href="https://dou.ua/forums/topic/39090/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/photo_2022-07-13_13-52-01/623e0b8c640caee610d85e722633710c.jpg" srcset="https://s.dou.ua/CACHE/images/img/announces/photo_2022-07-13_13-52-01/9a6f9f8bc6dd2e576dae944e7ded1f84.jpg 1.1x" alt="Співбесіди з колегами з усього світу. Як одержати користь від сервісу імітаційних співбесід">
+				<div class="title">Співбесіди з колегами з усього світу. Як одержати користь від сервісу імітаційних співбесід</div>
+			</a>
+			<a class="item" href="https://dou.ua/lenta/articles/military-tech-in-ukraine/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/military_tech_cover-840/d34595344c076f9cfe81bb9e2c9df4ea.jpg" srcset="https://s.dou.ua/CACHE/images/img/announces/military_tech_cover-840/b614744a12194c401f8f7096dd096e0b.jpg 1.1x" alt="Military-tech в Україні: аналізуємо стан індустрії, проблеми та перспективи галузі">
+				<div class="title">Military-tech в Україні: аналізуємо стан індустрії, проблеми та перспективи галузі</div>
+			</a>
+			<a class="item" href="https://dou.ua/forums/topic/39733/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/image_10_single/a8ebdb48074275800f39bff3e20e3fc8.png" srcset="https://s.dou.ua/CACHE/images/img/announces/image_10_single/7fc38b082346e6fd2342c7c8adcb3643.png 1.1x" alt="10 найпопулярніших плагінів Figma у 2022 році для UI/UX дизайнерів">
+				<div class="title">10 найпопулярніших плагінів Figma у 2022 році для UI/UX дизайнерів</div>
+			</a>
+			<a class="item" href="https://dou.ua/forums/topic/42859/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/speaker_QA_outside_1/6ab1d33e5a7914dcb66b085687cd6aaa.png" srcset="https://s.dou.ua/CACHE/images/img/announces/speaker_QA_outside_1/40442e48efec7e648cb40a005b748ab3.png 1.1x" alt="Складнощі при підвищенні до QA Lead — та як їх долати">
+				<div class="title">Складнощі при підвищенні до QA Lead — та як їх долати</div>
+			</a>
+			<a class="item" href="https://dou.ua/forums/topic/43382/?from=footer" target="_blank">
+				<img class="img" loading="lazy" src="https://s.dou.ua/CACHE/images/img/announces/5s_cover-3_5/c8628a1d6b78984d5629c872f7fda013.jpg" srcset="https://s.dou.ua/CACHE/images/img/announces/5s_cover-3_5/78b997af6cd7025e44f6030cf1cb9bd2.jpg 1.1x" alt="5 причин неефективної командної роботи та способи їх вирішення. Досвід Project Manager">
+				<div class="title">5 причин неефективної командної роботи та способи їх вирішення. Досвід Project Manager</div>
+			</a>
+	</div>
+
+</div>
+	</div>
+
+<footer class="b-footer">
+	<div class="l-content m-db">
+		<div class="l-content-wrap m-db">
+			<div class="col2 m-hide"></div>
+			<div class="col18 m-db">
+				© 2005—2023 <strong><a href="https://dou.ua/">DOU.ua</a></strong>
+				<p class="footer-lang-switch">
+							<strong>Українська</strong>
+<span style="padding:0 4px;">·</span>							<a href="?switch_lang=en" rel="nofollow">English</a>
+				</p>
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col50 m-cola m-db">
+				<div class="social">
+							<span class="regcount"><a href="https://dou.ua/users/">Нас уже 623 167</a>.</span>
+					Ми в соцмережах:
+						<a href="https://www.facebook.com/doucommunity"><img src="https://s.dou.ua/assets/img/facebook.svg" width="19" height="19"></a>
+						<a href="https://twitter.com/doucommunity"><img src="https://s.dou.ua/assets/img/twitter.svg" width="19" height="19"></a>
+						<a href="https://github.com/devua/csv"><img src="https://s.dou.ua/assets/img/github.svg" width="19" height="19"></a>
+						<a href="https://www.linkedin.com/company/developers.org.ua/"><img src="https://s.dou.ua/assets/img/linkedin.png" width="19" height="19"></a>
+						<a href="https://dou.ua/telegram/"><img src="https://s.dou.ua/assets/img/telegram.svg" width="19" height="19"></a>
+						<a href="https://www.youtube.com/channel/UC6If-LcFxUDJhgL9dmB8oMA"><img src="https://s.dou.ua/assets/img/youtube.svg" style="width:23px;height:23px;top:0;" width="23" height="23"></a>
+						<a href="https://www.tiktok.com/@doucommunity"><img src="https://s.dou.ua/assets/img/tiktok.png" width="19" height="19"></a>
+						<a href="https://www.instagram.com/doucommunity/"><img src="https://s.dou.ua/assets/img/instagram.png" width="19" height="19"></a>
+				</div>
+
+				<div class="m-hide">
+						<a href="http://djinni.co/developers/?from=dou-footer" target="_blank" rel="noopener">Пошук програмістів на Джині</a>
+				</div>
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col24 m-db m-cola">
+				<ul class="links">
+					<li><a href="https://dou.ua/contacts/">Контакти</a></li>
+					<li><a href="https://dou.ua/adv/">Реклама</a></li>
+					<li><a href="https://dou.ua/legal/">Legal</a></li>
+				</ul>
+
+					Пишіть нам на <a href="/cdn-cgi/l/email-protection#23505653534c515763474c560d5642"><span class="__cf_email__" data-cfemail="691a1c1919061b1d290d061c471c08">[email&#160;protected]</span></a>
+			</div>
+
+			<div class="col2 m-hide"></div>
+		</div>
+	</div>
+</footer>
+			<div class="modal-wrap">
+	<div class="modal-screen"></div>
+	<div id="_loginDialog" class="b-login-dialog">
+		<div class="head">
+			<div class="title">Скористайтесь акаунтом</div>
+			<div class="close cancel">×</div>
+		</div>
+
+		<div class="border">
+			<div class="step1">
+					<ul class="b-login-buttons">
+		<li>
+			<a class='button-link' href="javascript:;" l="/login/google-oauth2/" id="btnGoogle">
+				<div class="login-button btnGoogle">
+					<div class="layer"></div>
+				</div>
+				<div class="link">Google</div>
+			</a>
+		</li>
+		<li>
+			<a class='button-link' href="javascript:;" l="/login/linkedin-oauth2/" id="btnLinkedIn">
+				<div class="login-button btnLin">
+					<div class="layer"></div>
+				</div>
+				<div class="link">LinkedIn</div>
+			</a>
+		</li>
+		<li>
+			<a class='button-link' href="javascript:;" l="/login/github/" id="btnLoginGitHub">
+				<div class="login-button btnLoginGitHub">
+					<div class="layer"></div>
+				</div>
+				<div class="link">GitHub</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/facebook/" id="btnFb">
+				<div class="login-button btnFb">
+					<div class="layer"></div>
+				</div>
+				<div class="link">Facebook</div>
+			</a>
+		</li>
+	</ul>
+
+	<div class="alt-login-method">Увійти <a id='_loginByMail' href="javascript:;">за поштою</a> або <a href="javascript:;" l="/login/twitter/" id="btnTw">через твіттер</a>.
+	</div>
+
+			</div>
+			<div class="step2">
+				<ul class="b-content-menu">
+					<li class="sel" nav='login'>
+						<div class="text wrap">
+							<span>Вхід</span>
+							<b class="l"></b>
+							<b class="c"></b>
+							<b class="r"></b>
+						</div>
+					</li>
+					<li nav="register">
+						<div class="wrap">
+							<a href="javascript:;">Реєстрація</a>
+						</div>
+					</li>
+					<li nav="reset"><div class="wrap"><a href="javascript:;">Відновлення пароля</a></div></li>
+				</ul>
+					<div class="login view">
+		<div class="b-form">
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="text"
+				 name="username"
+				 value=""
+class="first txtEmail"				>
+			</div>
+
+		</div>
+	</div>
+				<div class="row class">
+					<div class="cell"><label class="input-label">Пароль</label></div>
+					<div class="cell">
+						<div class="input">
+							<input type="password" class="txtPassword" value="" name="password">
+						</div>
+						<div id="wrong-password-message">Неправильний пароль</div>
+					</div>
+				</div>
+			</div>
+			<div class = "table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class = "row">
+					<div class = "cell"></div>
+					<div class = "cell">
+						<div class = "little-loading"></div>
+						<button class = "big-button btnSubmit">Увійти</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="register view">
+		<div class="table form-section">
+			<div class="message-closed">Реєстрацію по email закрито</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="reset view">
+		<div class="b-form">
+
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email"
+				 name="username"
+				 value=""
+class="first txtEmail"				>
+			</div>
+
+		</div>
+	</div>
+			</div>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Скинути пароль</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Ви неправильно вказали свою пошту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				<div class="alt-login-method">Або <a id='_loginBySN' href="javascript:;">скористайтесь акаунтом</a>.</div>
+			</div>
+				<div class="add-email" style="display:none;">
+		<div class="message" style="font-size:14px;margin-left:16px;margin-bottom:15px;">
+			Для того, щоб зробити ваш профіль повноцінним, вкажіть вашу пошту.<br>
+			Ми відправимо вам лист з посиланням для підтвердження.
+		</div>
+		<div class="b-form">
+			<form method="POST">
+				<div class="table form-section">
+					<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+					<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email"
+				 name="email"
+				 value=""
+class="first txtEmail"				>
+			</div>
+
+		</div>
+	</div>
+				</div>
+<input type='hidden' name='csrfmiddlewaretoken' value='TrjddJLqYEGn4Mr64WYAckJnQyJzAdePWLoj1yk39hAFECbCGEOaLhtP0KA6yh5h' />			</form>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell b-buttons">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Зберегти</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Ви неправильно вказали свою пошту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+			<div class="agreement">
+				<label><input checked type="checkbox" id="agree-checkbox"> я згоден(-на)</label> з <a href="//dou.ua/legal/" target="_blank">умовами використання сайту</a> і <a href="//dou.ua/privacy/" target="_blank">політикою конфіденційності</a>.
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://s.dou.ua/build/built.v3111.75e5963.js"></script>
+
+		<script type="text/javascript" src="https://s.dou.ua/build/built.v3111.a76ba64.js"></script>
+
+
+	<script>
+		window.CSRF_TOKEN = "xQGjO7WJP0aUjuqr5ZNBbnYga4PuGRE5AaLpCWvm0D4cTkaXHHDbKkIIkgG1EVvx";
+			window.LOGIN_URL = "https://dou.ua/ajax-login/";
+			window.RESET_PASSWORD_URL = "https://dou.ua/j-lost-password/";
+		window.USER_ID = 0;
+		window.IS_MOBILE = "False";
+		window.IS_TABLET = "False";
+		window.LANG = "uk";
+
+				window.loginManager = new LoginManager();
+
+				function loginshow() {
+					window.loginManager.showLogin({
+						success: function() {
+							window.location.reload();
+						},
+					});
+					return false;
+				}
+
+				$("#login-link").click(loginshow);
+
+			$("#max-header-close-id").click(function(e) {
+				$.cookie("max-header", 1, { expires: 1, path: "/" });
+				$(this).parent().slideUp(200);
+			});
+
+$("#topinfo-close").click(function(e) {
+	$.cookie("topinfo", 1, { expires: 1, path: "/", domain: '.dou.ua' });
+	$("#topinfo").slideUp(150);
+	return false;
+});
+
+		window.COMMENTS_COUNT = 0;
+		new CommentsManager();
+
+
+	new StarLikeManager();
+
+			new FlowRightSideManager();
+
+
+
+
+			if (impressions.length) {
+				$.post('/ajax-impressions-track/', {
+					'csrfmiddlewaretoken': window.CSRF_TOKEN,
+					'impressions': JSON.stringify(impressions)
+				});
+			}
+	</script>
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '2592859804111805');
+	fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=2592859804111805&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+</body>
+</html>
